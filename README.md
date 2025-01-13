@@ -2,6 +2,7 @@
 
 This project creates panoramic images by stitching multiple overlapping scene images using OpenCV's image stitching API. The result is a seamless panoramic view created from a series of input images.
 
+![Alt text](stiched-image.png)
 ---
 
 ## 🚀 Features
